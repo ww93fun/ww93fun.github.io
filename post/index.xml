@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Wei's Note</title><link>https://blog.ww93.fun/post/</link><description>Recent content in Posts on Wei's Note</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.ww93.fun/post/index.xml" rel="self" type="application/rss+xml"/><item><title>2023</title><link>https://blog.ww93.fun/post/2023/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://blog.ww93.fun/post/2023/</guid><description>&lt;p>年度关键词：阅读、记录、播客、投资、宏观认知&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Wei's Note</title><link>https://blog.ww93.fun/post/</link><description>Recent content in Posts on Wei's Note</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 19 Mar 2025 20:00:00 +0800</lastBuildDate><atom:link href="https://blog.ww93.fun/post/index.xml" rel="self" type="application/rss+xml"/><item><title>yage.ai 博客分享</title><link>https://blog.ww93.fun/post/yage-ai-blogs-share/</link><pubDate>Wed, 19 Mar 2025 20:00:00 +0800</pubDate><guid>https://blog.ww93.fun/post/yage-ai-blogs-share/</guid><description>&lt;p>主要分享下 &lt;a href="https://yage.ai/claude-code.html">被低估的Claude Code：AI Native软件开发的关键拼图&lt;/a> 这篇文章&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>AI 友好的开发模式：&lt;/strong> AI-Friendly 或 AI-Native 强调软件开发的交付物不仅针对人类，也针对 AI，包含针对 AI 的 prompt 文件，以便 AI 快速上手。&lt;/p>
+&lt;ul>
+&lt;li>就像 &lt;a href="https://yage.ai/why-forget-all-frameworks.html">为什么学习Agentic AI的第一步是忘记所有框架？&lt;/a> 这篇文章提到的一样，LangGraph、Autogen 这样框架并没有对 AI 或 AI IDE 友好，对于人还是有一定的学习成本，不能够让 AI 一键生成一个可以运行 demo project。&lt;/li>
+&lt;li>类似于 robots.txt 对搜索引擎的优化，llms.txt 能够提供信息来帮助 LLMs 在推理时更好的使用网站，例如 &lt;a href="https://docs.stripe.com/llms.txt">stripe docs&lt;/a>。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Library as a Service (LaaS)：&lt;/strong> 软件库的交付物不是代码和文档，而是一种服务 API，重构了软件开发的价值链。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://21st.dev/">21st.dev&lt;/a> 本身是个 UI 组建库网站，但他提供了一个 &lt;a href="https://github.com/21st-dev/magic-mcp">magic mcp&lt;/a> 的服务，可以通过描述所需内容来创建 UI 组件。&lt;a href="https://21st.dev/magic">工作原理&lt;/a>：根据描述 在 21st.dev 库中搜索相关组件。利用 RAG 技术，它找到最匹配的前 3 个组件，并从中汲取灵感来创建新的、独特的组件。IDE agent 理解应用程序上下文，并无缝地将新组件集成到正确的位置。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://yage.ai">https://yage.ai&lt;/a> 还有挺多文章都挺有应用价值的，例如&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://yage.ai/why-forget-all-frameworks.html">为什么学习Agentic AI的第一步是忘记所有框架？&lt;/a> 跟 &lt;a href="https://www.anthropic.com/engineering/building-effective-agents">Building effective agents&lt;/a> 讲述的一样的观点，但是论据更加充分，现阶段 GenAI 还在快速发展中，没必要引入的 agent 框架，因为不同 agent 框架代表不同的 &amp;quot; 世界观 &amp;ldquo;，都引入了比较复杂的抽象，这个抽象可能并不适合未来的 AI。&lt;/p></description></item><item><title>2023</title><link>https://blog.ww93.fun/post/2023/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://blog.ww93.fun/post/2023/</guid><description>&lt;p>年度关键词：阅读、记录、播客、投资、宏观认知&lt;/p>
 &lt;h2 id="阅读">阅读&lt;/h2>
 &lt;ul>
 &lt;li>今年最值得肯定的是阅读习惯的培养，认认真真开始阅读的一年，非常感谢 Boox Leaf 2 和微信读书帮我营造了读书的氛围。彻底进入的电纸书的世界，还卖掉了很多买来基本没动的纸质书，断舍离。&lt;/li>
